@@ -1,6 +1,4 @@
 import grand
-import MDAnalysis as mda
-from MDAnalysis.analysis import align
 import mdtraj
 
 # Shift ghost waters

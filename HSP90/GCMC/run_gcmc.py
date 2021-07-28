@@ -1,6 +1,3 @@
-from MDAnalysis.analysis import align
-import MDAnalysis as mda
-import time
 from simtk.openmm import *
 from simtk.openmm.app import *
 from simtk.unit import *
@@ -13,7 +10,7 @@ import grand
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-m', '--moves', type=int, default=20, help='Number of GCMC moves per cycle')
-parser.add_argument('-s', '--steps', type=int, default=250, help='Number of MD steps per cycle')
+parser.add_argument('-s', '--steps', type=int, default=2000, help='Number of MD steps per cycle')
 args = parser.parse_args()
 
 pdb = PDBFile('../HSP90_equil.pdb')
