@@ -1,4 +1,4 @@
-### Simulation of Heat Shock Protein 90
+# Simulation of Heat Shock Protein 90
 
 The necessary scripts and files are included to run GCMC/MD, GCNCMC/MD and water hopping simulatons on the equilibrated HSP90 system (PDB code: 5J64). Scripts are also included for the post-processing of these trajectories, as well as for analysis done both by clustering and electron density calculations.
 
