@@ -13,14 +13,14 @@ parser.add_argument('-m', '--moves', type=int, default=20, help='Number of GCMC 
 parser.add_argument('-s', '--steps', type=int, default=2000, help='Number of MD steps per cycle')
 args = parser.parse_args()
 
-pdb = PDBFile('../HSP90_equil.pdb')
+pdb = PDBFile('../input_files/HSP90_equil.pdb')
 
 # Add ghost waters
 pdb.topology, pdb.positions, ghosts = grand.utils.add_ghosts(pdb.topology, pdb.positions,
                                                              n=15, pdb='HSP90-prod-ghosts.pdb')
 
 # Create system
-forcefield = ForceField('amber14-all.xml', 'amber14/tip3p.xml', '6G7.xml')
+forcefield = ForceField('amber14-all.xml', 'amber14/tip3p.xml', '../input_files/6G7.xml')
 system = forcefield.createSystem(pdb.topology, 
                                  nonbondedMethod=PME, 
                                  nonbondedCutoff=12*angstrom,

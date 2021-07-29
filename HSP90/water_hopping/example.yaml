@@ -1,13 +1,13 @@
 output_dir: output
-outfname: HSP90-10-20
+outfname: HSP90-example
 
 logger:
   level: info
   stream: True
 
 structure:
-  filename: ../HSP90-6G7.prmtop
-  xyz: ../HSP90-6G7.inpcrd
+  filename: ../input_files/HSP90_equil.prmtop
+  xyz: ../input_files/HSP90_equil.inpcrd
 
 system:
   nonbondedMethod: PME
