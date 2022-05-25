@@ -20,7 +20,7 @@ pdb.topology, pdb.positions, ghosts = grand.utils.add_ghosts(pdb.topology, pdb.p
                                                              n=15, pdb='trypsin-prod-ghosts.pdb')
 
 # Create system
-forcefield = ForceField('amber14-all.xml', 'amber14/tip3p.xml', '../input_files/BAM.xml')
+forcefield = ForceField('amber14-all.xml', 'amber14/tip3p.xml', '../input_files/BEN.xml')
 system = forcefield.createSystem(pdb.topology, 
                                  nonbondedMethod=PME, 
                                  nonbondedCutoff=12*angstrom,
