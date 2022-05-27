@@ -1,0 +1,461 @@
+2021-03-25 21:38:04,032 - INFO: kT = 0.5921875708469466 kcal/mol
+2021-03-25 21:38:09,569 - INFO: BaseGrandCanonicalMonteCarloSampler object initialised
+2021-03-25 21:38:09,569 - INFO: GCMC sphere is based on reference atom IDs: [887, 1837]
+2021-03-25 21:38:09,569 - INFO: GCMC sphere radius is 6 A
+2021-03-25 21:38:09,570 - INFO: Simulating at an Adams (B) value of -6.888845176169922
+2021-03-25 21:38:09,570 - INFO: GCMCSphereSampler object initialised
+2021-03-25 21:38:09,570 - INFO: Each NCMC move will be executed over a total of 11.0 ps
+2021-03-25 21:38:09,571 - INFO: NonequilibriumGCMCSphereSampler object initialised
+2021-03-25 21:38:22,677 - INFO: 1 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:38:28,491 - INFO: 2 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:38:34,394 - INFO: 3 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:38:59,703 - INFO: 4 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:39:05,522 - INFO: 5 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:39:11,294 - INFO: 6 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:39:17,203 - INFO: 7 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:39:42,860 - INFO: 8 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:40:07,740 - INFO: 9 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:40:28,985 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:40:32,727 - INFO: 10 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:40:38,478 - INFO: 11 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:40:59,562 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:41:03,164 - INFO: 12 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:41:08,961 - INFO: 13 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:41:14,822 - INFO: 14 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:41:20,688 - INFO: 15 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:41:42,213 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:41:45,849 - INFO: 16 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:41:51,726 - INFO: 17 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:42:13,362 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:42:16,958 - INFO: 18 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:42:22,937 - INFO: 19 move(s) completed (0 accepted (0.0000 %)). Current N = 0. Average N = 0.000
+2021-03-25 21:42:48,309 - INFO: 20 move(s) completed (1 accepted (5.0000 %)). Current N = 1. Average N = 0.050
+2021-03-25 21:43:13,121 - INFO: 21 move(s) completed (1 accepted (4.7619 %)). Current N = 1. Average N = 0.095
+2021-03-25 21:43:34,341 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:43:38,030 - INFO: 22 move(s) completed (1 accepted (4.5455 %)). Current N = 1. Average N = 0.136
+2021-03-25 21:44:02,997 - INFO: 23 move(s) completed (1 accepted (4.3478 %)). Current N = 1. Average N = 0.174
+2021-03-25 21:44:27,743 - INFO: 24 move(s) completed (1 accepted (4.1667 %)). Current N = 1. Average N = 0.208
+2021-03-25 21:44:52,377 - INFO: 25 move(s) completed (1 accepted (4.0000 %)). Current N = 1. Average N = 0.240
+2021-03-25 21:45:13,697 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:45:17,403 - INFO: 26 move(s) completed (1 accepted (3.8462 %)). Current N = 1. Average N = 0.269
+2021-03-25 21:45:38,756 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:45:42,384 - INFO: 27 move(s) completed (1 accepted (3.7037 %)). Current N = 1. Average N = 0.296
+2021-03-25 21:46:07,026 - INFO: 28 move(s) completed (1 accepted (3.5714 %)). Current N = 1. Average N = 0.321
+2021-03-25 21:46:32,279 - INFO: 29 move(s) completed (1 accepted (3.4483 %)). Current N = 1. Average N = 0.345
+2021-03-25 21:46:54,066 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:46:57,489 - INFO: 30 move(s) completed (1 accepted (3.3333 %)). Current N = 1. Average N = 0.367
+2021-03-25 21:47:19,340 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:47:23,004 - INFO: 31 move(s) completed (1 accepted (3.2258 %)). Current N = 1. Average N = 0.387
+2021-03-25 21:47:44,835 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:47:48,512 - INFO: 32 move(s) completed (1 accepted (3.1250 %)). Current N = 1. Average N = 0.406
+2021-03-25 21:48:10,662 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:48:14,354 - INFO: 33 move(s) completed (1 accepted (3.0303 %)). Current N = 1. Average N = 0.424
+2021-03-25 21:48:40,086 - INFO: 34 move(s) completed (1 accepted (2.9412 %)). Current N = 1. Average N = 0.441
+2021-03-25 21:49:01,381 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:49:05,066 - INFO: 35 move(s) completed (1 accepted (2.8571 %)). Current N = 1. Average N = 0.457
+2021-03-25 21:49:26,324 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:49:29,910 - INFO: 36 move(s) completed (1 accepted (2.7778 %)). Current N = 1. Average N = 0.472
+2021-03-25 21:49:51,353 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:49:55,026 - INFO: 37 move(s) completed (1 accepted (2.7027 %)). Current N = 1. Average N = 0.486
+2021-03-25 21:50:19,983 - INFO: 38 move(s) completed (1 accepted (2.6316 %)). Current N = 1. Average N = 0.500
+2021-03-25 21:50:41,642 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:50:45,344 - INFO: 39 move(s) completed (1 accepted (2.5641 %)). Current N = 1. Average N = 0.513
+2021-03-25 21:51:07,079 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:51:10,680 - INFO: 40 move(s) completed (1 accepted (2.5000 %)). Current N = 1. Average N = 0.525
+2021-03-25 21:51:36,097 - INFO: 41 move(s) completed (1 accepted (2.4390 %)). Current N = 1. Average N = 0.537
+2021-03-25 21:52:01,835 - INFO: 42 move(s) completed (1 accepted (2.3810 %)). Current N = 1. Average N = 0.548
+2021-03-25 21:52:23,950 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:52:27,702 - INFO: 43 move(s) completed (1 accepted (2.3256 %)). Current N = 1. Average N = 0.558
+2021-03-25 21:52:49,785 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:52:53,477 - INFO: 44 move(s) completed (1 accepted (2.2727 %)). Current N = 1. Average N = 0.568
+2021-03-25 21:53:18,371 - INFO: 45 move(s) completed (1 accepted (2.2222 %)). Current N = 1. Average N = 0.578
+2021-03-25 21:53:39,545 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:53:43,303 - INFO: 46 move(s) completed (1 accepted (2.1739 %)). Current N = 1. Average N = 0.587
+2021-03-25 21:54:08,287 - INFO: 47 move(s) completed (1 accepted (2.1277 %)). Current N = 1. Average N = 0.596
+2021-03-25 21:54:32,984 - INFO: 48 move(s) completed (1 accepted (2.0833 %)). Current N = 1. Average N = 0.604
+2021-03-25 21:54:54,333 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:54:57,998 - INFO: 49 move(s) completed (1 accepted (2.0408 %)). Current N = 1. Average N = 0.612
+2021-03-25 21:55:18,946 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:55:22,581 - INFO: 50 move(s) completed (1 accepted (2.0000 %)). Current N = 1. Average N = 0.620
+2021-03-25 21:55:43,851 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:55:47,386 - INFO: 51 move(s) completed (1 accepted (1.9608 %)). Current N = 1. Average N = 0.627
+2021-03-25 21:56:12,923 - INFO: 52 move(s) completed (1 accepted (1.9231 %)). Current N = 1. Average N = 0.635
+2021-03-25 21:56:38,409 - INFO: 53 move(s) completed (1 accepted (1.8868 %)). Current N = 1. Average N = 0.641
+2021-03-25 21:56:59,498 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:57:03,032 - INFO: 54 move(s) completed (1 accepted (1.8519 %)). Current N = 1. Average N = 0.648
+2021-03-25 21:57:24,262 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:57:27,967 - INFO: 55 move(s) completed (1 accepted (1.8182 %)). Current N = 1. Average N = 0.654
+2021-03-25 21:57:49,126 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:57:52,801 - INFO: 56 move(s) completed (1 accepted (1.7857 %)). Current N = 1. Average N = 0.661
+2021-03-25 21:58:14,242 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:58:17,931 - INFO: 57 move(s) completed (1 accepted (1.7544 %)). Current N = 1. Average N = 0.667
+2021-03-25 21:58:39,432 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:58:43,108 - INFO: 58 move(s) completed (1 accepted (1.7241 %)). Current N = 1. Average N = 0.672
+2021-03-25 21:59:04,807 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:59:08,502 - INFO: 59 move(s) completed (1 accepted (1.6949 %)). Current N = 1. Average N = 0.678
+2021-03-25 21:59:33,815 - INFO: 60 move(s) completed (1 accepted (1.6667 %)). Current N = 1. Average N = 0.683
+2021-03-25 21:59:55,529 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 21:59:59,065 - INFO: 61 move(s) completed (1 accepted (1.6393 %)). Current N = 1. Average N = 0.689
+2021-03-25 22:00:20,864 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:00:24,360 - INFO: 62 move(s) completed (1 accepted (1.6129 %)). Current N = 1. Average N = 0.694
+2021-03-25 22:00:46,246 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:00:49,828 - INFO: 63 move(s) completed (1 accepted (1.5873 %)). Current N = 1. Average N = 0.698
+2021-03-25 22:01:14,473 - INFO: 64 move(s) completed (1 accepted (1.5625 %)). Current N = 1. Average N = 0.703
+2021-03-25 22:01:36,537 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:01:40,239 - INFO: 65 move(s) completed (1 accepted (1.5385 %)). Current N = 1. Average N = 0.708
+2021-03-25 22:02:02,332 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:02:06,023 - INFO: 66 move(s) completed (1 accepted (1.5152 %)). Current N = 1. Average N = 0.712
+2021-03-25 22:02:27,343 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:02:31,062 - INFO: 67 move(s) completed (1 accepted (1.4925 %)). Current N = 1. Average N = 0.716
+2021-03-25 22:02:52,424 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:02:56,107 - INFO: 68 move(s) completed (1 accepted (1.4706 %)). Current N = 1. Average N = 0.721
+2021-03-25 22:03:21,248 - INFO: 69 move(s) completed (1 accepted (1.4493 %)). Current N = 1. Average N = 0.725
+2021-03-25 22:03:46,524 - INFO: 70 move(s) completed (1 accepted (1.4286 %)). Current N = 1. Average N = 0.729
+2021-03-25 22:04:08,261 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:04:11,891 - INFO: 71 move(s) completed (1 accepted (1.4085 %)). Current N = 1. Average N = 0.732
+2021-03-25 22:04:37,093 - INFO: 72 move(s) completed (2 accepted (2.7778 %)). Current N = 2. Average N = 0.750
+2021-03-25 22:04:58,929 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:05:02,571 - INFO: 73 move(s) completed (2 accepted (2.7397 %)). Current N = 2. Average N = 0.767
+2021-03-25 22:05:24,462 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:05:28,007 - INFO: 74 move(s) completed (2 accepted (2.7027 %)). Current N = 2. Average N = 0.784
+2021-03-25 22:05:53,559 - INFO: 75 move(s) completed (2 accepted (2.6667 %)). Current N = 2. Average N = 0.800
+2021-03-25 22:06:18,352 - INFO: 76 move(s) completed (2 accepted (2.6316 %)). Current N = 2. Average N = 0.816
+2021-03-25 22:06:44,122 - INFO: 77 move(s) completed (2 accepted (2.5974 %)). Current N = 2. Average N = 0.831
+2021-03-25 22:07:09,004 - INFO: 78 move(s) completed (2 accepted (2.5641 %)). Current N = 2. Average N = 0.846
+2021-03-25 22:07:30,553 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:07:34,239 - INFO: 79 move(s) completed (2 accepted (2.5316 %)). Current N = 2. Average N = 0.861
+2021-03-25 22:07:55,766 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:07:59,454 - INFO: 80 move(s) completed (2 accepted (2.5000 %)). Current N = 2. Average N = 0.875
+2021-03-25 22:08:21,174 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:08:24,858 - INFO: 81 move(s) completed (2 accepted (2.4691 %)). Current N = 2. Average N = 0.889
+2021-03-25 22:08:46,626 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:08:50,366 - INFO: 82 move(s) completed (2 accepted (2.4390 %)). Current N = 2. Average N = 0.902
+2021-03-25 22:09:15,544 - INFO: 83 move(s) completed (2 accepted (2.4096 %)). Current N = 2. Average N = 0.916
+2021-03-25 22:09:37,494 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:09:41,166 - INFO: 84 move(s) completed (2 accepted (2.3810 %)). Current N = 2. Average N = 0.929
+2021-03-25 22:10:03,080 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:10:06,639 - INFO: 85 move(s) completed (2 accepted (2.3529 %)). Current N = 2. Average N = 0.941
+2021-03-25 22:10:28,355 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:10:31,905 - INFO: 86 move(s) completed (2 accepted (2.3256 %)). Current N = 2. Average N = 0.954
+2021-03-25 22:10:56,684 - INFO: 87 move(s) completed (2 accepted (2.2989 %)). Current N = 2. Average N = 0.966
+2021-03-25 22:11:21,615 - INFO: 88 move(s) completed (2 accepted (2.2727 %)). Current N = 2. Average N = 0.977
+2021-03-25 22:11:46,676 - INFO: 89 move(s) completed (2 accepted (2.2472 %)). Current N = 2. Average N = 0.989
+2021-03-25 22:12:07,924 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:12:11,662 - INFO: 90 move(s) completed (2 accepted (2.2222 %)). Current N = 2. Average N = 1.000
+2021-03-25 22:12:36,973 - INFO: 91 move(s) completed (2 accepted (2.1978 %)). Current N = 2. Average N = 1.011
+2021-03-25 22:13:02,331 - INFO: 92 move(s) completed (2 accepted (2.1739 %)). Current N = 2. Average N = 1.022
+2021-03-25 22:13:27,695 - INFO: 93 move(s) completed (2 accepted (2.1505 %)). Current N = 2. Average N = 1.032
+2021-03-25 22:13:49,544 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:13:53,228 - INFO: 94 move(s) completed (2 accepted (2.1277 %)). Current N = 2. Average N = 1.043
+2021-03-25 22:14:18,713 - INFO: 95 move(s) completed (2 accepted (2.1053 %)). Current N = 2. Average N = 1.053
+2021-03-25 22:14:43,685 - INFO: 96 move(s) completed (2 accepted (2.0833 %)). Current N = 2. Average N = 1.062
+2021-03-25 22:15:09,137 - INFO: 97 move(s) completed (2 accepted (2.0619 %)). Current N = 2. Average N = 1.072
+2021-03-25 22:15:34,724 - INFO: 98 move(s) completed (2 accepted (2.0408 %)). Current N = 2. Average N = 1.082
+2021-03-25 22:15:59,504 - INFO: 99 move(s) completed (2 accepted (2.0202 %)). Current N = 2. Average N = 1.091
+2021-03-25 22:16:20,797 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:16:24,331 - INFO: 100 move(s) completed (2 accepted (2.0000 %)). Current N = 2. Average N = 1.100
+2021-03-25 22:16:45,739 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:16:49,368 - INFO: 101 move(s) completed (2 accepted (1.9802 %)). Current N = 2. Average N = 1.109
+2021-03-25 22:17:10,903 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:17:14,588 - INFO: 102 move(s) completed (2 accepted (1.9608 %)). Current N = 2. Average N = 1.118
+2021-03-25 22:17:36,366 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:17:40,044 - INFO: 103 move(s) completed (2 accepted (1.9417 %)). Current N = 2. Average N = 1.126
+2021-03-25 22:18:01,861 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:18:05,548 - INFO: 104 move(s) completed (2 accepted (1.9231 %)). Current N = 2. Average N = 1.135
+2021-03-25 22:18:27,333 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:18:31,023 - INFO: 105 move(s) completed (2 accepted (1.9048 %)). Current N = 2. Average N = 1.143
+2021-03-25 22:18:53,122 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:18:56,825 - INFO: 106 move(s) completed (2 accepted (1.8868 %)). Current N = 2. Average N = 1.151
+2021-03-25 22:19:18,868 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:19:22,459 - INFO: 107 move(s) completed (2 accepted (1.8692 %)). Current N = 2. Average N = 1.159
+2021-03-25 22:19:48,018 - INFO: 108 move(s) completed (2 accepted (1.8519 %)). Current N = 2. Average N = 1.167
+2021-03-25 22:20:12,456 - INFO: 109 move(s) completed (2 accepted (1.8349 %)). Current N = 2. Average N = 1.174
+2021-03-25 22:20:33,811 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:20:37,492 - INFO: 110 move(s) completed (2 accepted (1.8182 %)). Current N = 2. Average N = 1.182
+2021-03-25 22:21:02,561 - INFO: 111 move(s) completed (2 accepted (1.8018 %)). Current N = 2. Average N = 1.189
+2021-03-25 22:21:24,076 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:21:27,701 - INFO: 112 move(s) completed (2 accepted (1.7857 %)). Current N = 2. Average N = 1.196
+2021-03-25 22:21:49,411 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:21:53,095 - INFO: 113 move(s) completed (2 accepted (1.7699 %)). Current N = 2. Average N = 1.204
+2021-03-25 22:22:18,573 - INFO: 114 move(s) completed (2 accepted (1.7544 %)). Current N = 2. Average N = 1.210
+2021-03-25 22:22:40,456 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:22:44,141 - INFO: 115 move(s) completed (2 accepted (1.7391 %)). Current N = 2. Average N = 1.217
+2021-03-25 22:23:06,091 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:23:09,777 - INFO: 116 move(s) completed (2 accepted (1.7241 %)). Current N = 2. Average N = 1.224
+2021-03-25 22:23:35,506 - INFO: 117 move(s) completed (2 accepted (1.7094 %)). Current N = 2. Average N = 1.231
+2021-03-25 22:24:00,300 - INFO: 118 move(s) completed (2 accepted (1.6949 %)). Current N = 2. Average N = 1.237
+2021-03-25 22:24:21,581 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:24:25,154 - INFO: 119 move(s) completed (2 accepted (1.6807 %)). Current N = 2. Average N = 1.244
+2021-03-25 22:24:49,924 - INFO: 120 move(s) completed (2 accepted (1.6667 %)). Current N = 2. Average N = 1.250
+2021-03-25 22:25:11,276 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:25:14,884 - INFO: 121 move(s) completed (2 accepted (1.6529 %)). Current N = 2. Average N = 1.256
+2021-03-25 22:25:36,084 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:25:39,580 - INFO: 122 move(s) completed (2 accepted (1.6393 %)). Current N = 2. Average N = 1.262
+2021-03-25 22:26:04,617 - INFO: 123 move(s) completed (2 accepted (1.6260 %)). Current N = 2. Average N = 1.268
+2021-03-25 22:26:29,958 - INFO: 124 move(s) completed (2 accepted (1.6129 %)). Current N = 2. Average N = 1.274
+2021-03-25 22:26:51,753 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:26:55,394 - INFO: 125 move(s) completed (2 accepted (1.6000 %)). Current N = 2. Average N = 1.280
+2021-03-25 22:27:20,358 - INFO: 126 move(s) completed (2 accepted (1.5873 %)). Current N = 2. Average N = 1.286
+2021-03-25 22:27:46,059 - INFO: 127 move(s) completed (2 accepted (1.5748 %)). Current N = 2. Average N = 1.291
+2021-03-25 22:28:08,156 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:28:11,838 - INFO: 128 move(s) completed (2 accepted (1.5625 %)). Current N = 2. Average N = 1.297
+2021-03-25 22:28:33,982 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:28:37,670 - INFO: 129 move(s) completed (2 accepted (1.5504 %)). Current N = 2. Average N = 1.302
+2021-03-25 22:28:59,932 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:29:03,620 - INFO: 130 move(s) completed (2 accepted (1.5385 %)). Current N = 2. Average N = 1.308
+2021-03-25 22:29:25,011 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:29:28,479 - INFO: 131 move(s) completed (2 accepted (1.5267 %)). Current N = 2. Average N = 1.313
+2021-03-25 22:29:53,405 - INFO: 132 move(s) completed (2 accepted (1.5152 %)). Current N = 2. Average N = 1.318
+2021-03-25 22:30:14,623 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:30:18,285 - INFO: 133 move(s) completed (2 accepted (1.5038 %)). Current N = 2. Average N = 1.323
+2021-03-25 22:30:43,190 - INFO: 134 move(s) completed (2 accepted (1.4925 %)). Current N = 2. Average N = 1.328
+2021-03-25 22:31:05,009 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:31:08,677 - INFO: 135 move(s) completed (2 accepted (1.4815 %)). Current N = 2. Average N = 1.333
+2021-03-25 22:31:34,137 - INFO: 136 move(s) completed (2 accepted (1.4706 %)). Current N = 2. Average N = 1.338
+2021-03-25 22:31:55,975 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:31:59,620 - INFO: 137 move(s) completed (2 accepted (1.4599 %)). Current N = 2. Average N = 1.343
+2021-03-25 22:32:21,589 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:32:25,278 - INFO: 138 move(s) completed (2 accepted (1.4493 %)). Current N = 2. Average N = 1.348
+2021-03-25 22:32:47,341 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:32:51,030 - INFO: 139 move(s) completed (2 accepted (1.4388 %)). Current N = 2. Average N = 1.353
+2021-03-25 22:33:16,678 - INFO: 140 move(s) completed (2 accepted (1.4286 %)). Current N = 2. Average N = 1.357
+2021-03-25 22:33:37,868 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:33:41,544 - INFO: 141 move(s) completed (2 accepted (1.4184 %)). Current N = 2. Average N = 1.362
+2021-03-25 22:34:02,752 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:34:06,368 - INFO: 142 move(s) completed (2 accepted (1.4085 %)). Current N = 2. Average N = 1.366
+2021-03-25 22:34:27,828 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:34:31,427 - INFO: 143 move(s) completed (2 accepted (1.3986 %)). Current N = 2. Average N = 1.371
+2021-03-25 22:34:56,311 - INFO: 144 move(s) completed (2 accepted (1.3889 %)). Current N = 2. Average N = 1.375
+2021-03-25 22:35:17,781 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:35:21,369 - INFO: 145 move(s) completed (2 accepted (1.3793 %)). Current N = 2. Average N = 1.379
+2021-03-25 22:35:46,608 - INFO: 146 move(s) completed (2 accepted (1.3699 %)). Current N = 2. Average N = 1.384
+2021-03-25 22:36:08,554 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:36:12,065 - INFO: 147 move(s) completed (2 accepted (1.3605 %)). Current N = 2. Average N = 1.388
+2021-03-25 22:36:34,006 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:36:37,600 - INFO: 148 move(s) completed (2 accepted (1.3514 %)). Current N = 2. Average N = 1.392
+2021-03-25 22:37:03,430 - INFO: 149 move(s) completed (2 accepted (1.3423 %)). Current N = 2. Average N = 1.396
+2021-03-25 22:37:25,539 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:37:29,288 - INFO: 150 move(s) completed (2 accepted (1.3333 %)). Current N = 2. Average N = 1.400
+2021-03-25 22:37:51,319 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:37:54,990 - INFO: 151 move(s) completed (2 accepted (1.3245 %)). Current N = 2. Average N = 1.404
+2021-03-25 22:38:19,993 - INFO: 152 move(s) completed (2 accepted (1.3158 %)). Current N = 2. Average N = 1.408
+2021-03-25 22:38:45,012 - INFO: 153 move(s) completed (2 accepted (1.3072 %)). Current N = 2. Average N = 1.412
+2021-03-25 22:39:06,486 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:39:10,133 - INFO: 154 move(s) completed (2 accepted (1.2987 %)). Current N = 2. Average N = 1.416
+2021-03-25 22:39:35,118 - INFO: 155 move(s) completed (2 accepted (1.2903 %)). Current N = 2. Average N = 1.419
+2021-03-25 22:39:56,555 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:40:00,159 - INFO: 156 move(s) completed (2 accepted (1.2821 %)). Current N = 2. Average N = 1.423
+2021-03-25 22:40:21,975 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:40:25,672 - INFO: 157 move(s) completed (2 accepted (1.2739 %)). Current N = 2. Average N = 1.427
+2021-03-25 22:40:47,549 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:40:51,145 - INFO: 158 move(s) completed (2 accepted (1.2658 %)). Current N = 2. Average N = 1.430
+2021-03-25 22:41:16,872 - INFO: 159 move(s) completed (2 accepted (1.2579 %)). Current N = 2. Average N = 1.434
+2021-03-25 22:41:38,960 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:41:42,651 - INFO: 160 move(s) completed (2 accepted (1.2500 %)). Current N = 2. Average N = 1.438
+2021-03-25 22:42:08,388 - INFO: 161 move(s) completed (2 accepted (1.2422 %)). Current N = 2. Average N = 1.441
+2021-03-25 22:42:34,158 - INFO: 162 move(s) completed (2 accepted (1.2346 %)). Current N = 2. Average N = 1.444
+2021-03-25 22:42:59,123 - INFO: 163 move(s) completed (2 accepted (1.2270 %)). Current N = 2. Average N = 1.448
+2021-03-25 22:43:24,109 - INFO: 164 move(s) completed (2 accepted (1.2195 %)). Current N = 2. Average N = 1.451
+2021-03-25 22:43:49,396 - INFO: 165 move(s) completed (2 accepted (1.2121 %)). Current N = 2. Average N = 1.454
+2021-03-25 22:44:10,925 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:44:14,517 - INFO: 166 move(s) completed (2 accepted (1.2048 %)). Current N = 2. Average N = 1.458
+2021-03-25 22:44:36,169 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:44:39,674 - INFO: 167 move(s) completed (2 accepted (1.1976 %)). Current N = 2. Average N = 1.461
+2021-03-25 22:45:01,373 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:45:04,864 - INFO: 168 move(s) completed (2 accepted (1.1905 %)). Current N = 2. Average N = 1.464
+2021-03-25 22:45:30,201 - INFO: 169 move(s) completed (2 accepted (1.1834 %)). Current N = 2. Average N = 1.468
+2021-03-25 22:45:52,173 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:45:55,843 - INFO: 170 move(s) completed (2 accepted (1.1765 %)). Current N = 2. Average N = 1.471
+2021-03-25 22:46:17,965 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:46:21,711 - INFO: 171 move(s) completed (2 accepted (1.1696 %)). Current N = 2. Average N = 1.474
+2021-03-25 22:46:47,590 - INFO: 172 move(s) completed (2 accepted (1.1628 %)). Current N = 2. Average N = 1.477
+2021-03-25 22:47:08,965 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:47:12,636 - INFO: 173 move(s) completed (2 accepted (1.1561 %)). Current N = 2. Average N = 1.480
+2021-03-25 22:47:37,615 - INFO: 174 move(s) completed (2 accepted (1.1494 %)). Current N = 2. Average N = 1.483
+2021-03-25 22:47:59,091 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:48:02,784 - INFO: 175 move(s) completed (2 accepted (1.1429 %)). Current N = 2. Average N = 1.486
+2021-03-25 22:48:24,380 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:48:28,037 - INFO: 176 move(s) completed (2 accepted (1.1364 %)). Current N = 2. Average N = 1.489
+2021-03-25 22:48:49,742 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:48:53,275 - INFO: 177 move(s) completed (2 accepted (1.1299 %)). Current N = 2. Average N = 1.492
+2021-03-25 22:49:18,408 - INFO: 178 move(s) completed (2 accepted (1.1236 %)). Current N = 2. Average N = 1.494
+2021-03-25 22:49:39,656 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:49:43,187 - INFO: 179 move(s) completed (2 accepted (1.1173 %)). Current N = 2. Average N = 1.497
+2021-03-25 22:50:04,791 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:50:08,344 - INFO: 180 move(s) completed (2 accepted (1.1111 %)). Current N = 2. Average N = 1.500
+2021-03-25 22:50:30,282 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:50:33,913 - INFO: 181 move(s) completed (2 accepted (1.1050 %)). Current N = 2. Average N = 1.503
+2021-03-25 22:50:55,828 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:50:59,502 - INFO: 182 move(s) completed (2 accepted (1.0989 %)). Current N = 2. Average N = 1.506
+2021-03-25 22:51:21,666 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:51:25,339 - INFO: 183 move(s) completed (2 accepted (1.0929 %)). Current N = 2. Average N = 1.508
+2021-03-25 22:51:50,397 - INFO: 184 move(s) completed (2 accepted (1.0870 %)). Current N = 2. Average N = 1.511
+2021-03-25 22:52:11,858 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:52:15,547 - INFO: 185 move(s) completed (2 accepted (1.0811 %)). Current N = 2. Average N = 1.514
+2021-03-25 22:52:37,030 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:52:40,719 - INFO: 186 move(s) completed (2 accepted (1.0753 %)). Current N = 2. Average N = 1.516
+2021-03-25 22:53:02,313 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:53:05,961 - INFO: 187 move(s) completed (2 accepted (1.0695 %)). Current N = 2. Average N = 1.519
+2021-03-25 22:53:30,876 - INFO: 188 move(s) completed (2 accepted (1.0638 %)). Current N = 2. Average N = 1.521
+2021-03-25 22:53:56,142 - INFO: 189 move(s) completed (2 accepted (1.0582 %)). Current N = 2. Average N = 1.524
+2021-03-25 22:54:18,050 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:54:21,738 - INFO: 190 move(s) completed (2 accepted (1.0526 %)). Current N = 2. Average N = 1.526
+2021-03-25 22:54:43,168 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:54:46,832 - INFO: 191 move(s) completed (2 accepted (1.0471 %)). Current N = 2. Average N = 1.529
+2021-03-25 22:55:12,605 - INFO: 192 move(s) completed (2 accepted (1.0417 %)). Current N = 2. Average N = 1.531
+2021-03-25 22:55:34,515 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:55:38,167 - INFO: 193 move(s) completed (2 accepted (1.0363 %)). Current N = 2. Average N = 1.534
+2021-03-25 22:56:00,089 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:56:03,603 - INFO: 194 move(s) completed (2 accepted (1.0309 %)). Current N = 2. Average N = 1.536
+2021-03-25 22:56:24,841 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:56:28,465 - INFO: 195 move(s) completed (2 accepted (1.0256 %)). Current N = 2. Average N = 1.538
+2021-03-25 22:56:49,774 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:56:53,460 - INFO: 196 move(s) completed (2 accepted (1.0204 %)). Current N = 2. Average N = 1.541
+2021-03-25 22:57:18,095 - INFO: 197 move(s) completed (2 accepted (1.0152 %)). Current N = 2. Average N = 1.543
+2021-03-25 22:57:43,368 - INFO: 198 move(s) completed (2 accepted (1.0101 %)). Current N = 2. Average N = 1.546
+2021-03-25 22:58:08,854 - INFO: 199 move(s) completed (2 accepted (1.0050 %)). Current N = 2. Average N = 1.548
+2021-03-25 22:58:34,263 - INFO: 200 move(s) completed (2 accepted (1.0000 %)). Current N = 2. Average N = 1.550
+2021-03-25 22:58:55,680 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:58:59,430 - INFO: 201 move(s) completed (2 accepted (0.9950 %)). Current N = 2. Average N = 1.552
+2021-03-25 22:59:21,429 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:59:25,119 - INFO: 202 move(s) completed (2 accepted (0.9901 %)). Current N = 2. Average N = 1.554
+2021-03-25 22:59:47,013 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 22:59:50,615 - INFO: 203 move(s) completed (2 accepted (0.9852 %)). Current N = 2. Average N = 1.557
+2021-03-25 23:00:16,216 - INFO: 204 move(s) completed (2 accepted (0.9804 %)). Current N = 2. Average N = 1.559
+2021-03-25 23:00:37,284 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:00:40,973 - INFO: 205 move(s) completed (2 accepted (0.9756 %)). Current N = 2. Average N = 1.561
+2021-03-25 23:01:02,139 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:01:05,829 - INFO: 206 move(s) completed (2 accepted (0.9709 %)). Current N = 2. Average N = 1.563
+2021-03-25 23:01:30,751 - INFO: 207 move(s) completed (2 accepted (0.9662 %)). Current N = 2. Average N = 1.565
+2021-03-25 23:01:56,006 - INFO: 208 move(s) completed (2 accepted (0.9615 %)). Current N = 2. Average N = 1.567
+2021-03-25 23:02:21,365 - INFO: 209 move(s) completed (2 accepted (0.9569 %)). Current N = 2. Average N = 1.569
+2021-03-25 23:02:43,035 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:02:46,714 - INFO: 210 move(s) completed (2 accepted (0.9524 %)). Current N = 2. Average N = 1.571
+2021-03-25 23:03:08,538 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:03:12,036 - INFO: 211 move(s) completed (2 accepted (0.9479 %)). Current N = 2. Average N = 1.573
+2021-03-25 23:03:33,955 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:03:37,644 - INFO: 212 move(s) completed (2 accepted (0.9434 %)). Current N = 2. Average N = 1.575
+2021-03-25 23:04:03,250 - INFO: 213 move(s) completed (2 accepted (0.9390 %)). Current N = 2. Average N = 1.577
+2021-03-25 23:04:28,554 - INFO: 214 move(s) completed (2 accepted (0.9346 %)). Current N = 2. Average N = 1.579
+2021-03-25 23:04:54,231 - INFO: 215 move(s) completed (2 accepted (0.9302 %)). Current N = 2. Average N = 1.581
+2021-03-25 23:05:19,025 - INFO: 216 move(s) completed (2 accepted (0.9259 %)). Current N = 2. Average N = 1.583
+2021-03-25 23:05:40,308 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:05:43,866 - INFO: 217 move(s) completed (2 accepted (0.9217 %)). Current N = 2. Average N = 1.585
+2021-03-25 23:06:08,701 - INFO: 218 move(s) completed (2 accepted (0.9174 %)). Current N = 2. Average N = 1.587
+2021-03-25 23:06:34,025 - INFO: 219 move(s) completed (2 accepted (0.9132 %)). Current N = 2. Average N = 1.589
+2021-03-25 23:06:59,447 - INFO: 220 move(s) completed (2 accepted (0.9091 %)). Current N = 2. Average N = 1.591
+2021-03-25 23:07:25,000 - INFO: 221 move(s) completed (2 accepted (0.9050 %)). Current N = 2. Average N = 1.593
+2021-03-25 23:07:46,786 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:07:50,410 - INFO: 222 move(s) completed (2 accepted (0.9009 %)). Current N = 2. Average N = 1.595
+2021-03-25 23:08:15,853 - INFO: 223 move(s) completed (2 accepted (0.8969 %)). Current N = 2. Average N = 1.596
+2021-03-25 23:08:41,560 - INFO: 224 move(s) completed (2 accepted (0.8929 %)). Current N = 2. Average N = 1.598
+2021-03-25 23:09:07,077 - INFO: 225 move(s) completed (2 accepted (0.8889 %)). Current N = 2. Average N = 1.600
+2021-03-25 23:09:28,799 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:09:32,369 - INFO: 226 move(s) completed (2 accepted (0.8850 %)). Current N = 2. Average N = 1.602
+2021-03-25 23:09:57,246 - INFO: 227 move(s) completed (2 accepted (0.8811 %)). Current N = 2. Average N = 1.603
+2021-03-25 23:10:22,230 - INFO: 228 move(s) completed (2 accepted (0.8772 %)). Current N = 2. Average N = 1.605
+2021-03-25 23:10:47,438 - INFO: 229 move(s) completed (2 accepted (0.8734 %)). Current N = 2. Average N = 1.607
+2021-03-25 23:11:09,074 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:11:12,759 - INFO: 230 move(s) completed (2 accepted (0.8696 %)). Current N = 2. Average N = 1.609
+2021-03-25 23:11:38,131 - INFO: 231 move(s) completed (2 accepted (0.8658 %)). Current N = 2. Average N = 1.610
+2021-03-25 23:12:00,063 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:12:03,703 - INFO: 232 move(s) completed (2 accepted (0.8621 %)). Current N = 2. Average N = 1.612
+2021-03-25 23:12:29,445 - INFO: 233 move(s) completed (2 accepted (0.8584 %)). Current N = 2. Average N = 1.614
+2021-03-25 23:12:54,152 - INFO: 234 move(s) completed (2 accepted (0.8547 %)). Current N = 2. Average N = 1.615
+2021-03-25 23:13:16,027 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:13:19,500 - INFO: 235 move(s) completed (2 accepted (0.8511 %)). Current N = 2. Average N = 1.617
+2021-03-25 23:13:45,204 - INFO: 236 move(s) completed (2 accepted (0.8475 %)). Current N = 2. Average N = 1.619
+2021-03-25 23:14:06,543 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:14:10,183 - INFO: 237 move(s) completed (2 accepted (0.8439 %)). Current N = 2. Average N = 1.620
+2021-03-25 23:14:31,650 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:14:35,235 - INFO: 238 move(s) completed (2 accepted (0.8403 %)). Current N = 2. Average N = 1.622
+2021-03-25 23:14:56,718 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:15:00,283 - INFO: 239 move(s) completed (2 accepted (0.8368 %)). Current N = 2. Average N = 1.623
+2021-03-25 23:15:25,437 - INFO: 240 move(s) completed (2 accepted (0.8333 %)). Current N = 2. Average N = 1.625
+2021-03-25 23:15:47,139 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:15:50,876 - INFO: 241 move(s) completed (2 accepted (0.8299 %)). Current N = 2. Average N = 1.627
+2021-03-25 23:16:12,648 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:16:16,387 - INFO: 242 move(s) completed (2 accepted (0.8264 %)). Current N = 2. Average N = 1.628
+2021-03-25 23:16:38,279 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:16:41,926 - INFO: 243 move(s) completed (2 accepted (0.8230 %)). Current N = 2. Average N = 1.630
+2021-03-25 23:17:03,796 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:17:07,317 - INFO: 244 move(s) completed (2 accepted (0.8197 %)). Current N = 2. Average N = 1.631
+2021-03-25 23:17:33,039 - INFO: 245 move(s) completed (3 accepted (1.2245 %)). Current N = 1. Average N = 1.629
+2021-03-25 23:17:54,887 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:17:58,440 - INFO: 246 move(s) completed (3 accepted (1.2195 %)). Current N = 1. Average N = 1.626
+2021-03-25 23:18:24,079 - INFO: 247 move(s) completed (3 accepted (1.2146 %)). Current N = 1. Average N = 1.623
+2021-03-25 23:18:45,429 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:18:48,932 - INFO: 248 move(s) completed (3 accepted (1.2097 %)). Current N = 1. Average N = 1.621
+2021-03-25 23:19:10,273 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:19:13,957 - INFO: 249 move(s) completed (3 accepted (1.2048 %)). Current N = 1. Average N = 1.619
+2021-03-25 23:19:38,883 - INFO: 250 move(s) completed (3 accepted (1.2000 %)). Current N = 1. Average N = 1.616
+2021-03-25 23:20:00,519 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:20:04,217 - INFO: 251 move(s) completed (3 accepted (1.1952 %)). Current N = 1. Average N = 1.613
+2021-03-25 23:20:25,874 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:20:29,564 - INFO: 252 move(s) completed (3 accepted (1.1905 %)). Current N = 1. Average N = 1.611
+2021-03-25 23:20:54,969 - INFO: 253 move(s) completed (3 accepted (1.1858 %)). Current N = 1. Average N = 1.609
+2021-03-25 23:21:16,910 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:21:20,378 - INFO: 254 move(s) completed (3 accepted (1.1811 %)). Current N = 1. Average N = 1.606
+2021-03-25 23:21:42,303 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:21:45,921 - INFO: 255 move(s) completed (3 accepted (1.1765 %)). Current N = 1. Average N = 1.604
+2021-03-25 23:22:10,561 - INFO: 256 move(s) completed (3 accepted (1.1719 %)). Current N = 1. Average N = 1.602
+2021-03-25 23:22:32,328 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:22:35,916 - INFO: 257 move(s) completed (3 accepted (1.1673 %)). Current N = 1. Average N = 1.599
+2021-03-25 23:23:01,444 - INFO: 258 move(s) completed (4 accepted (1.5504 %)). Current N = 2. Average N = 1.601
+2021-03-25 23:23:26,318 - INFO: 259 move(s) completed (4 accepted (1.5444 %)). Current N = 2. Average N = 1.602
+2021-03-25 23:23:51,177 - INFO: 260 move(s) completed (4 accepted (1.5385 %)). Current N = 2. Average N = 1.604
+2021-03-25 23:24:16,295 - INFO: 261 move(s) completed (4 accepted (1.5326 %)). Current N = 2. Average N = 1.605
+2021-03-25 23:24:37,828 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:24:41,520 - INFO: 262 move(s) completed (4 accepted (1.5267 %)). Current N = 2. Average N = 1.607
+2021-03-25 23:25:03,313 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:25:06,987 - INFO: 263 move(s) completed (4 accepted (1.5209 %)). Current N = 2. Average N = 1.608
+2021-03-25 23:25:32,343 - INFO: 264 move(s) completed (4 accepted (1.5152 %)). Current N = 2. Average N = 1.610
+2021-03-25 23:25:53,704 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:25:57,280 - INFO: 265 move(s) completed (4 accepted (1.5094 %)). Current N = 2. Average N = 1.611
+2021-03-25 23:26:19,207 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:26:22,745 - INFO: 266 move(s) completed (4 accepted (1.5038 %)). Current N = 2. Average N = 1.613
+2021-03-25 23:26:44,574 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:26:48,028 - INFO: 267 move(s) completed (4 accepted (1.4981 %)). Current N = 2. Average N = 1.614
+2021-03-25 23:27:13,620 - INFO: 268 move(s) completed (4 accepted (1.4925 %)). Current N = 2. Average N = 1.616
+2021-03-25 23:27:38,580 - INFO: 269 move(s) completed (4 accepted (1.4870 %)). Current N = 2. Average N = 1.617
+2021-03-25 23:27:59,900 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:28:03,509 - INFO: 270 move(s) completed (4 accepted (1.4815 %)). Current N = 2. Average N = 1.619
+2021-03-25 23:28:24,950 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:28:28,578 - INFO: 271 move(s) completed (4 accepted (1.4760 %)). Current N = 2. Average N = 1.620
+2021-03-25 23:28:50,025 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:28:53,698 - INFO: 272 move(s) completed (4 accepted (1.4706 %)). Current N = 2. Average N = 1.621
+2021-03-25 23:29:19,156 - INFO: 273 move(s) completed (4 accepted (1.4652 %)). Current N = 2. Average N = 1.623
+2021-03-25 23:29:40,929 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:29:44,667 - INFO: 274 move(s) completed (4 accepted (1.4599 %)). Current N = 2. Average N = 1.624
+2021-03-25 23:30:06,630 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:30:10,269 - INFO: 275 move(s) completed (4 accepted (1.4545 %)). Current N = 2. Average N = 1.625
+2021-03-25 23:30:31,478 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:30:35,016 - INFO: 276 move(s) completed (4 accepted (1.4493 %)). Current N = 2. Average N = 1.627
+2021-03-25 23:31:00,550 - INFO: 277 move(s) completed (4 accepted (1.4440 %)). Current N = 2. Average N = 1.628
+2021-03-25 23:31:26,044 - INFO: 278 move(s) completed (4 accepted (1.4388 %)). Current N = 2. Average N = 1.629
+2021-03-25 23:31:47,897 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:31:51,551 - INFO: 279 move(s) completed (4 accepted (1.4337 %)). Current N = 2. Average N = 1.631
+2021-03-25 23:32:12,712 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:32:16,214 - INFO: 280 move(s) completed (4 accepted (1.4286 %)). Current N = 2. Average N = 1.632
+2021-03-25 23:32:41,327 - INFO: 281 move(s) completed (4 accepted (1.4235 %)). Current N = 2. Average N = 1.633
+2021-03-25 23:33:02,814 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:33:06,435 - INFO: 282 move(s) completed (4 accepted (1.4184 %)). Current N = 2. Average N = 1.635
+2021-03-25 23:33:28,023 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:33:31,699 - INFO: 283 move(s) completed (4 accepted (1.4134 %)). Current N = 2. Average N = 1.636
+2021-03-25 23:33:57,158 - INFO: 284 move(s) completed (4 accepted (1.4085 %)). Current N = 2. Average N = 1.637
+2021-03-25 23:34:22,595 - INFO: 285 move(s) completed (4 accepted (1.4035 %)). Current N = 2. Average N = 1.639
+2021-03-25 23:34:44,403 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:34:48,064 - INFO: 286 move(s) completed (4 accepted (1.3986 %)). Current N = 2. Average N = 1.640
+2021-03-25 23:35:10,105 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:35:13,776 - INFO: 287 move(s) completed (4 accepted (1.3937 %)). Current N = 2. Average N = 1.641
+2021-03-25 23:35:39,127 - INFO: 288 move(s) completed (4 accepted (1.3889 %)). Current N = 2. Average N = 1.642
+2021-03-25 23:36:04,638 - INFO: 289 move(s) completed (4 accepted (1.3841 %)). Current N = 2. Average N = 1.644
+2021-03-25 23:36:30,399 - INFO: 290 move(s) completed (4 accepted (1.3793 %)). Current N = 2. Average N = 1.645
+2021-03-25 23:36:55,381 - INFO: 291 move(s) completed (4 accepted (1.3746 %)). Current N = 2. Average N = 1.646
+2021-03-25 23:37:16,716 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:37:20,401 - INFO: 292 move(s) completed (4 accepted (1.3699 %)). Current N = 2. Average N = 1.647
+2021-03-25 23:37:42,052 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:37:45,801 - INFO: 293 move(s) completed (4 accepted (1.3652 %)). Current N = 2. Average N = 1.649
+2021-03-25 23:38:07,453 - INFO: Move rejected due to water leaving the GCMC sphere
+2021-03-25 23:38:11,195 - INFO: 294 move(s) completed (4 accepted (1.3605 %)). Current N = 2. Average N = 1.650
+2021-03-25 23:38:36,808 - INFO: 295 move(s) completed (4 accepted (1.3559 %)). Current N = 2. Average N = 1.651
