@@ -40,7 +40,7 @@ gcncmc_mover = grand.samplers.NonequilibriumGCMCSphereSampler(system=system,
                                                               temperature=298*kelvin, 
                                                               integrator=integrator,
                                                               nPertSteps=args.pert,
-                                                              nPropStepsPerPert=args.prop
+                                                              nPropStepsPerPert=args.prop,
                                                               referenceAtoms=ref_atoms, 
                                                               sphereRadius=6*angstroms, 
                                                               ghostFile="trypsin-prod-ghosts.txt", 
