@@ -40,7 +40,7 @@ gcncmc_mover = grand.samplers.NonequilibriumGCMCSphereSampler(system=system,
                                                               temperature=298*kelvin, 
                                                               integrator=integrator,
                                                               nPertSteps=args.pert,
-                                                              nPropStepsPerPert=args.prop
+                                                              nPropStepsPerPert=args.prop,
                                                               referenceAtoms=ref_atoms, 
                                                               sphereRadius=6*angstroms, 
                                                               ghostFile="HSP90-prod-ghosts.txt", 
@@ -54,7 +54,7 @@ platform = Platform.getPlatformByName('CUDA')
 platform.setPropertyDefaultValue('Precision', 'mixed')
 
 # Create simulation object and set positions, velocities and box vectors
-simulation = Simulation(pdb.topology, system, integrator, platform)
+simulation = Simulation(pdb.topology, system, gcncmc_mover.compound_integrator, platform)
 simulation.context.setPositions(pdb.positions)
 simulation.context.setVelocitiesToTemperature(298*kelvin)
 simulation.context.setPeriodicBoxVectors(*pdb.topology.getPeriodicBoxVectors())
